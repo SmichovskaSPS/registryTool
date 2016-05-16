@@ -1,0 +1,14 @@
+\\Mac\Home\Disk Google\CSharp\Projekty\RegSim\HKEY_LOCAL_MACHINE\bin\Debug\HKEY_LOCAL_MACHINE.dll
+\\Mac\Home\Disk Google\CSharp\Projekty\RegSim\HKEY_LOCAL_MACHINE\bin\Debug\HKEY_LOCAL_MACHINE.pdb
+\\Mac\Home\Disk Google\CSharp\Projekty\RegSim\HKEY_LOCAL_MACHINE\obj\Debug\HKEY_LOCAL_MACHINE.csprojResolveAssemblyReference.cache
+\\Mac\Home\Disk Google\CSharp\Projekty\RegSim\HKEY_LOCAL_MACHINE\obj\Debug\HKEY_LOCAL_MACHINE.dll
+\\Mac\Home\Disk Google\CSharp\Projekty\RegSim\HKEY_LOCAL_MACHINE\obj\Debug\HKEY_LOCAL_MACHINE.pdb
+\\Mac\Home\Disk Google\CSharp\Projekty\RegSim\HKEY_LOCAL_MACHINE\bin\Debug\Common.dll
+\\Mac\Home\Disk Google\CSharp\Projekty\RegSim\HKEY_LOCAL_MACHINE\bin\Debug\Common.pdb
+X:\Studentsky_Projekt\RegSim\HKEY_LOCAL_MACHINE\bin\Debug\HKEY_LOCAL_MACHINE.dll
+X:\Studentsky_Projekt\RegSim\HKEY_LOCAL_MACHINE\bin\Debug\HKEY_LOCAL_MACHINE.pdb
+X:\Studentsky_Projekt\RegSim\HKEY_LOCAL_MACHINE\bin\Debug\Common.dll
+X:\Studentsky_Projekt\RegSim\HKEY_LOCAL_MACHINE\bin\Debug\Common.pdb
+X:\Studentsky_Projekt\RegSim\HKEY_LOCAL_MACHINE\obj\Debug\HKEY_LOCAL_MACHINE.csprojResolveAssemblyReference.cache
+X:\Studentsky_Projekt\RegSim\HKEY_LOCAL_MACHINE\obj\Debug\HKEY_LOCAL_MACHINE.dll
+X:\Studentsky_Projekt\RegSim\HKEY_LOCAL_MACHINE\obj\Debug\HKEY_LOCAL_MACHINE.pdb
