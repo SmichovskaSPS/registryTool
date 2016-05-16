@@ -77,3 +77,6 @@ X:\Studentsky_Projekt\RegSim\RegSim\obj\Debug\RegSim.Keyboard.resources
 X:\Studentsky_Projekt\RegSim\RegSim\obj\Debug\RegSim.MainForm.resources
 X:\Studentsky_Projekt\RegSim\RegSim\obj\Debug\RegSim.Properties.Resources.resources
 X:\Studentsky_Projekt\RegSim\RegSim\obj\Debug\RegSim.csproj.GenerateResource.Cache
+X:\Škola\Programování a vývoj aplikací\Projekty\Studentsky_Projekt\RegSim\RegSim\bin\Debug\RegSim.exe.config
+X:\Škola\Programování a vývoj aplikací\Projekty\Studentsky_Projekt\RegSim\RegSim\obj\Debug\RegSim.exe
+X:\Škola\Programování a vývoj aplikací\Projekty\Studentsky_Projekt\RegSim\RegSim\obj\Debug\RegSim.pdb

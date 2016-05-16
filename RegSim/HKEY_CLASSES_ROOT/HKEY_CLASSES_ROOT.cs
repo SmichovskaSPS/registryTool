@@ -31,6 +31,7 @@ namespace HKEY_CLASSES_ROOT
 
     namespace CLSID
     {
+        using folder5b4 = F_5b4dae26b807_11d0_9815_00c04fd91972;
         public class CLSID
         {
             string name = "CLSID";
@@ -40,20 +41,23 @@ namespace HKEY_CLASSES_ROOT
             {
                 CLSID create = new CLSID();
                 System.IO.Directory.CreateDirectory(path + "/" + create.Name);
-                F_5b4dae26b807_11d0_9815_00c04fd91972.F_5b4dae26b807_11d0_9815_00c04fd91972.CreateFolder(path + "/" + create.Name);
+                folder5b4.Folder.CreateFolder(path + "/" + create.Name);
             }
         }
 
         namespace F_5b4dae26b807_11d0_9815_00c04fd91972
         {
-            public class F_5b4dae26b807_11d0_9815_00c04fd91972
+            /// <summary>
+            /// reprezentuje složku F_5b4dae26b807_11d0_9815_00c04fd91972
+            /// </summary>
+            public class Folder
             {
                 string name = @"{5b4dae26b807-11d0-9815-00c04fd91972}";
                 public string Name { get { return this.name; } }
 
                 public static void CreateFolder(string path)
                 {
-                    F_5b4dae26b807_11d0_9815_00c04fd91972 create = new F_5b4dae26b807_11d0_9815_00c04fd91972();
+                    Folder create = new Folder();
                     System.IO.Directory.CreateDirectory(path + "/" + create.Name);
                    
                 }
