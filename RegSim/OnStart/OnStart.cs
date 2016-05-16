@@ -18,14 +18,14 @@ namespace OnStart
             KeyPaths.KeyPaths keyPaths = new KeyPaths.KeyPaths();
             string path = keyPaths.Path;
 
-            HKEY_CURRENT_USER.HKEY_CURRENT_USER hkey_current_user = new HKEY_CURRENT_USER.HKEY_CURRENT_USER(path);
-            hkey_current_user.CreateFolder();
+            HiveCurrentUser.HiveCurrentUser hiveCurrentUser = new HiveCurrentUser.HiveCurrentUser(path);
+            hiveCurrentUser.CreateFolder();
 
-            HKEY_LOCAL_MACHINE.HKEY_LOCAL_MACHINE hkey_local_machine = new HKEY_LOCAL_MACHINE.HKEY_LOCAL_MACHINE(path);
-            hkey_local_machine.CreateFolder();
+            HiveLocalMachine.HiveLocalMachine hiveLocalMachine = new HiveLocalMachine.HiveLocalMachine(path);
+            hiveLocalMachine.CreateFolder();
 
-            HKEY_CLASSES_ROOT.HKEY_CLASSES_ROOT hkey_classes_root = new HKEY_CLASSES_ROOT.HKEY_CLASSES_ROOT(path);
-            hkey_classes_root.CreateFolder();
+            HiveClassesRoot.HiveClassesRoot hiveClassesRoot = new HiveClassesRoot.HiveClassesRoot(path);
+            hiveClassesRoot.CreateFolder();
         }
     }
 }

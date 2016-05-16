@@ -5,17 +5,17 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace HKEY_CURRENT_USER
+namespace HiveCurrentUser
 {
     /// <summary>
     /// Obsahuje metody pro vytvoření všech defaultních hives a keys v nadřazeném hive HKEY_CURRENT_USER
     /// </summary>
-    public class HKEY_CURRENT_USER{
+    public class HiveCurrentUser{
         string name = "HKEY_CURRENT_USER";
         public string Name { get { return this.name; } }
         public string Path { get; set; }
 
-        public HKEY_CURRENT_USER(string path)
+        public HiveCurrentUser(string path)
         {
             this.Path = path;
         }
@@ -24,36 +24,36 @@ namespace HKEY_CURRENT_USER
         public void CreateFolder()
         {
             System.IO.Directory.CreateDirectory(this.Path + this.Name);
-            ControlPanel.ControlPanel.CreateFolder(this.Path + this.Name);
-            Software.Software.CreateFolder(this.Path + this.Name);
+            HiveControlPanel.HiveControlPanel.CreateFolder(this.Path + this.Name);
+            HiveSoftware.HiveSoftware.CreateFolder(this.Path + this.Name);
         }
     }
 
-    namespace ControlPanel
+    namespace HiveControlPanel
     {
-        public class ControlPanel
+        public class HiveControlPanel
         {
             string name = "ControlPanel";
             public string Name { get { return this.name; } }
 
             public static void CreateFolder(string path)
             {
-                ControlPanel create = new ControlPanel();
+                HiveControlPanel create = new HiveControlPanel();
                 System.IO.Directory.CreateDirectory(path + "/" + create.Name);
-                Mouse.Mouse.CreateFolder(path + "/" + create.Name);
+                HiveMouse.HiveMouse.CreateFolder(path + "/" + create.Name);
             }
         }
 
-        namespace Mouse
+        namespace HiveMouse
         {
-            public class Mouse
+            public class HiveMouse
             {
                 string name = "Mouse";
                 public string Name { get { return this.name; } }
 
                 public static void CreateFolder(string path)
                 {
-                    Mouse create = new Mouse();
+                    HiveMouse create = new HiveMouse();
                     System.IO.Directory.CreateDirectory(path + "/" + create.Name);
 
                     Common.Common.CreateFile("DoubleClickSpeed", "00000000", path + "/" + create.Name);
@@ -62,77 +62,77 @@ namespace HKEY_CURRENT_USER
         }
     }
 
-    namespace Software
+    namespace HiveSoftware
     {
-        public class Software
+        public class HiveSoftware
         {
             string name = "Software";
             public string Name { get { return this.name; } }
 
             public static void CreateFolder(string path)
             {
-                Software create = new Software();
+                HiveSoftware create = new HiveSoftware();
                 System.IO.Directory.CreateDirectory(path + "/" + create.Name);
-                Microsoft.Microsoft.CreateFolder(path + "/" + create.Name);
+                HiveMicrosoft.HiveMicrosoft.CreateFolder(path + "/" + create.Name);
             }
         }
 
-        namespace Microsoft
+        namespace HiveMicrosoft
         {
-            public class Microsoft
+            public class HiveMicrosoft
             {
                 string name = "Microsoft";
                 public string Name { get { return this.name; } }
 
                 public static void CreateFolder(string path)
                 {
-                    Microsoft create = new Microsoft();
+                    HiveMicrosoft create = new HiveMicrosoft();
                     System.IO.Directory.CreateDirectory(path + "/" + create.Name);
-                    Windows.Windows.CreateFolder(path + "/" + create.Name);
+                    HiveWindows.HiveWindows.CreateFolder(path + "/" + create.Name);
                 }
             }
 
-            namespace Windows
+            namespace HiveWindows
             {
-                public class Windows
+                public class HiveWindows
                 {
                     string name = "Windows";
                     public string Name { get { return this.name; } }
 
                     public static void CreateFolder(string path)
                     {
-                        Windows create = new Windows();
+                        HiveWindows create = new HiveWindows();
                         System.IO.Directory.CreateDirectory(path + "/" + create.Name);
-                        CTF.CTF.CreateFolder(path + "/" + create.Name);
-                        CurrentVersion.CurrentVersion.CreateFolder(path + "/" + create.Name);
+                        HiveCTF.HiveCTF.CreateFolder(path + "/" + create.Name);
+                        HiveCurrentVersion.HiveCurrentVersion.CreateFolder(path + "/" + create.Name);
                     }
                 }
 
-                namespace CTF
+                namespace HiveCTF
                 {
-                    public class CTF
+                    public class HiveCTF
                     {
                         string name = "CTF";
                         public string Name { get { return this.name; } }
 
                         public static void CreateFolder(string path)
                         {
-                            CTF create = new CTF();
+                            HiveCTF create = new HiveCTF();
                             System.IO.Directory.CreateDirectory(path + "/" + create.Name);
-                            LangBar.LangBar.CreateFolder(path + "/" + create.Name);
+                            HiveLangBar.HiveLangBar.CreateFolder(path + "/" + create.Name);
                         }
                     }
 
-                    namespace LangBar
+                    namespace HiveLangBar
                     {
-                        public class LangBar
+                        public class HiveLangBar
                         {
                             string name = "LangBar";
                             public string Name { get { return this.name; } }
 
                             public static void CreateFolder(string path)
                             {
-                                LangBar create = new LangBar();
+                                HiveLangBar create = new HiveLangBar();
                                 System.IO.Directory.CreateDirectory(path + "/" + create.Name);
 
                                 Common.Common.CreateFile("ShowStatus", "00000000", path + "/" + create.Name);
@@ -141,47 +141,47 @@ namespace HKEY_CURRENT_USER
                     }
                 }
 
-                namespace CurrentVersion
+                namespace HiveCurrentVersion
                 {
-                    public class CurrentVersion
+                    public class HiveCurrentVersion
                     {
                         string name = "CurrentVersion";
                         public string Name { get { return this.name; } }
 
                         public static void CreateFolder(string path)
                         {
-                            CurrentVersion create = new CurrentVersion();
+                            HiveCurrentVersion create = new HiveCurrentVersion();
                             System.IO.Directory.CreateDirectory(path + "/" + create.Name);
-                            Explorer.Explorer.CreateFolder(path + "/" + create.Name);
-                            Policies.Policies.CreateFolder(path + "/" + create.Name);
+                            HiveExplorer.HiveExplorer.CreateFolder(path + "/" + create.Name);
+                            HivePolicies.HivePolicies.CreateFolder(path + "/" + create.Name);
                         }
                     }
 
-                    namespace Explorer
+                    namespace HiveExplorer
                     {
-                        public class Explorer
+                        public class HiveExplorer
                         {
                             string name = "Explorer";
                             public string Name { get { return this.name; } }
 
                             public static void CreateFolder(string path)
                             {
-                                Explorer create = new Explorer();
+                                HiveExplorer create = new HiveExplorer();
                                 System.IO.Directory.CreateDirectory(path + "/" + create.Name);
-                                Advanced.Advanced.CreateFolder(path + "/" + create.Name);
+                                HiveAdvanced.HiveAdvanced.CreateFolder(path + "/" + create.Name);
                             }
                         }
 
-                        namespace Advanced
+                        namespace HiveAdvanced
                         {
-                            public class Advanced
+                            public class HiveAdvanced
                             {
                                 string name = "Advanced";
                                 public string Name { get { return this.name; } }
 
                                 public static void CreateFolder(string path)
                                 {
-                                    Advanced create = new Advanced();
+                                    HiveAdvanced create = new HiveAdvanced();
                                     System.IO.Directory.CreateDirectory(path + "/" + create.Name);
 
                                     Common.Common.CreateFile("HideIcons", "00000000", path + "/" + create.Name);
@@ -191,34 +191,34 @@ namespace HKEY_CURRENT_USER
                         }
                     }
 
-                    namespace Policies
+                    namespace HivePolicies
                     {
-                        public class Policies
+                        public class HivePolicies
                         {
                             string name = "Policies";
                             public string Name { get { return this.name; } }
 
                             public static void CreateFolder(string path)
                             {
-                                Policies create = new Policies();
+                                HivePolicies create = new HivePolicies();
                                 System.IO.Directory.CreateDirectory(path + "/" + create.Name);
-                                SystemF.SystemF.CreateFolder(path + "/" + create.Name);
-                                Explorer.Explorer.CreateFolder(path + "/" + create.Name);
+                                HiveSystem.HiveSystem.CreateFolder(path + "/" + create.Name);
+                                HiveExplorer.HiveExplorer.CreateFolder(path + "/" + create.Name);
 
                                 Common.Common.CreateFile("NoChangeStartMenu", "00000000", path + "/" + create.Name);
                             }
                         }
 
-                        namespace SystemF
+                        namespace HiveSystem
                         {
-                            public class SystemF
+                            public class HiveSystem
                             {
                                 string name = "System";
                                 public string Name { get { return this.name; } }
 
                                 public static void CreateFolder(string path)
                                 {
-                                    SystemF create = new SystemF();
+                                    HiveSystem create = new HiveSystem();
                                     System.IO.Directory.CreateDirectory(path + "/" + create.Name);
 
                                     Common.Common.CreateFile("NoDispSettingsPage", "00000000", path + "/" + create.Name);
@@ -227,18 +227,18 @@ namespace HKEY_CURRENT_USER
                             }
                         }
 
-                        namespace Explorer
+                        namespace HiveExplorer
                         {
-                            public class Explorer
+                            public class HiveExplorer
                             {
                                 string name = "Explorer";
                                 public string Name { get { return this.name; } }
 
                                 public static void CreateFolder(string path)
                                 {
-                                    Explorer create = new Explorer();
+                                    HiveExplorer create = new HiveExplorer();
                                     System.IO.Directory.CreateDirectory(path + "/" + create.Name);
-                                    Advanced.Advanced.CreateFolder(path + "/" + create.Name);
+                                    HiveAdvanced.HiveAdvanced.CreateFolder(path + "/" + create.Name);
 
                                     Common.Common.CreateFile("enableAutoTray", "00000000", path + "/" + create.Name);
                                     Common.Common.CreateFile("NoViewContextMenu", "00000000", path + "/" + create.Name);
@@ -249,31 +249,31 @@ namespace HKEY_CURRENT_USER
  
                             }
 
-                            namespace Advanced
+                            namespace HiveAdvanced
                             {
-                                public class Advanced
+                                public class HiveAdvanced
                                 {
                                     string name = "Advanced";
                                     public string Name { get { return this.name; } }
 
                                     public static void CreateFolder(string path)
                                     {
-                                        Advanced create = new Advanced();
+                                        HiveAdvanced create = new HiveAdvanced();
                                         System.IO.Directory.CreateDirectory(path + "/" + create.Name);
-                                        HideIcons.HideIcons.CreateFolder(path + "/" + create.Name);
+                                        HiveHideIcons.HiveHideIcons.CreateFolder(path + "/" + create.Name);
                                     }
                                 }
 
-                                namespace HideIcons
+                                namespace HiveHideIcons
                                 {
-                                    public class HideIcons
+                                    public class HiveHideIcons
                                     {
                                         string name = "HideIcons";
                                         public string Name { get { return this.name; } }
 
                                         public static void CreateFolder(string path)
                                         {
-                                            HideIcons create = new HideIcons();
+                                            HiveHideIcons create = new HiveHideIcons();
                                             System.IO.Directory.CreateDirectory(path + "/" + create.Name);
                                         }
                                     }
