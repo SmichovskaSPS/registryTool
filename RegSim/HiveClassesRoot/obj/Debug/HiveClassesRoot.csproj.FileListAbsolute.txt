@@ -1,0 +1,13 @@
+X:\Studentsky_Projekt\RegSim\HKEY_CLASSES_ROOT\bin\Debug\HKEY_CLASSES_ROOT.dll
+X:\Studentsky_Projekt\RegSim\HKEY_CLASSES_ROOT\bin\Debug\HKEY_CLASSES_ROOT.pdb
+X:\Studentsky_Projekt\RegSim\HKEY_CLASSES_ROOT\bin\Debug\Common.dll
+X:\Studentsky_Projekt\RegSim\HKEY_CLASSES_ROOT\bin\Debug\Common.pdb
+X:\Studentsky_Projekt\RegSim\HKEY_CLASSES_ROOT\obj\Debug\HKEY_CLASSES_ROOT.dll
+X:\Studentsky_Projekt\RegSim\HKEY_CLASSES_ROOT\obj\Debug\HKEY_CLASSES_ROOT.pdb
+X:\Studentsky_Projekt\RegSim\HiveClassesRoot\bin\Debug\HKEY_CLASSES_ROOT.dll
+X:\Studentsky_Projekt\RegSim\HiveClassesRoot\bin\Debug\HKEY_CLASSES_ROOT.pdb
+X:\Studentsky_Projekt\RegSim\HiveClassesRoot\bin\Debug\Common.dll
+X:\Studentsky_Projekt\RegSim\HiveClassesRoot\bin\Debug\Common.pdb
+X:\Studentsky_Projekt\RegSim\HiveClassesRoot\obj\Debug\HiveClassesRoot.csprojResolveAssemblyReference.cache
+X:\Studentsky_Projekt\RegSim\HiveClassesRoot\obj\Debug\HKEY_CLASSES_ROOT.dll
+X:\Studentsky_Projekt\RegSim\HiveClassesRoot\obj\Debug\HKEY_CLASSES_ROOT.pdb
