@@ -30,16 +30,8 @@ X:\Studentsky_Projekt\RegSim\OnStart\obj\Debug\OnStart.dll
 X:\Studentsky_Projekt\RegSim\OnStart\obj\Debug\OnStart.pdb
 Y:\Documents\registryTool\RegSim\OnStart\bin\Debug\OnStart.dll
 Y:\Documents\registryTool\RegSim\OnStart\bin\Debug\OnStart.pdb
-Y:\Documents\registryTool\RegSim\OnStart\bin\Debug\HKEY_CLASSES_ROOT.dll
-Y:\Documents\registryTool\RegSim\OnStart\bin\Debug\HKEY_CURRENT_USER.dll
-Y:\Documents\registryTool\RegSim\OnStart\bin\Debug\HKEY_LOCAL_MACHINE.dll
 Y:\Documents\registryTool\RegSim\OnStart\bin\Debug\KeyPaths.dll
-Y:\Documents\registryTool\RegSim\OnStart\bin\Debug\Common.dll
-Y:\Documents\registryTool\RegSim\OnStart\bin\Debug\HKEY_CLASSES_ROOT.pdb
-Y:\Documents\registryTool\RegSim\OnStart\bin\Debug\HKEY_CURRENT_USER.pdb
-Y:\Documents\registryTool\RegSim\OnStart\bin\Debug\HKEY_LOCAL_MACHINE.pdb
 Y:\Documents\registryTool\RegSim\OnStart\bin\Debug\KeyPaths.pdb
-Y:\Documents\registryTool\RegSim\OnStart\bin\Debug\Common.pdb
 Y:\Documents\registryTool\RegSim\OnStart\obj\Debug\OnStart.csprojResolveAssemblyReference.cache
 Y:\Documents\registryTool\RegSim\OnStart\obj\Debug\OnStart.dll
 Y:\Documents\registryTool\RegSim\OnStart\obj\Debug\OnStart.pdb
