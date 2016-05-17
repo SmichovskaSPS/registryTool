@@ -1,0 +1,7 @@
+X:\Studentsky_Projekt\RegSim\HiveCurrentUser\bin\Debug\HKEY_CURRENT_USER.dll
+X:\Studentsky_Projekt\RegSim\HiveCurrentUser\bin\Debug\HKEY_CURRENT_USER.pdb
+X:\Studentsky_Projekt\RegSim\HiveCurrentUser\bin\Debug\Common.dll
+X:\Studentsky_Projekt\RegSim\HiveCurrentUser\bin\Debug\Common.pdb
+X:\Studentsky_Projekt\RegSim\HiveCurrentUser\obj\Debug\HiveCurrentUser.csprojResolveAssemblyReference.cache
+X:\Studentsky_Projekt\RegSim\HiveCurrentUser\obj\Debug\HKEY_CURRENT_USER.dll
+X:\Studentsky_Projekt\RegSim\HiveCurrentUser\obj\Debug\HKEY_CURRENT_USER.pdb

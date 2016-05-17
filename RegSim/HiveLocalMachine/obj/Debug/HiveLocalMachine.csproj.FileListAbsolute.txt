@@ -1,0 +1,7 @@
+X:\Studentsky_Projekt\RegSim\HiveLocalMachine\bin\Debug\HKEY_LOCAL_MACHINE.dll
+X:\Studentsky_Projekt\RegSim\HiveLocalMachine\bin\Debug\HKEY_LOCAL_MACHINE.pdb
+X:\Studentsky_Projekt\RegSim\HiveLocalMachine\bin\Debug\Common.dll
+X:\Studentsky_Projekt\RegSim\HiveLocalMachine\bin\Debug\Common.pdb
+X:\Studentsky_Projekt\RegSim\HiveLocalMachine\obj\Debug\HiveLocalMachine.csprojResolveAssemblyReference.cache
+X:\Studentsky_Projekt\RegSim\HiveLocalMachine\obj\Debug\HKEY_LOCAL_MACHINE.dll
+X:\Studentsky_Projekt\RegSim\HiveLocalMachine\obj\Debug\HKEY_LOCAL_MACHINE.pdb
