@@ -1,6 +1,0 @@
-Y:\Documents\registryTool\RegSim\HKEY_CLASSES_ROOT\bin\Debug\HKEY_CLASSES_ROOT.dll
-Y:\Documents\registryTool\RegSim\HKEY_CLASSES_ROOT\bin\Debug\HKEY_CLASSES_ROOT.pdb
-Y:\Documents\registryTool\RegSim\HKEY_CLASSES_ROOT\bin\Debug\Common.dll
-Y:\Documents\registryTool\RegSim\HKEY_CLASSES_ROOT\bin\Debug\Common.pdb
-Y:\Documents\registryTool\RegSim\HKEY_CLASSES_ROOT\obj\Debug\HKEY_CLASSES_ROOT.dll
-Y:\Documents\registryTool\RegSim\HKEY_CLASSES_ROOT\obj\Debug\HKEY_CLASSES_ROOT.pdb
