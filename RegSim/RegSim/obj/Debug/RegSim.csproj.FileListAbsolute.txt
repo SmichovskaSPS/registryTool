@@ -80,3 +80,27 @@ X:\Studentsky_Projekt\RegSim\RegSim\obj\Debug\RegSim.csproj.GenerateResource.Cac
 X:\Škola\Programování a vývoj aplikací\Projekty\Studentsky_Projekt\RegSim\RegSim\bin\Debug\RegSim.exe.config
 X:\Škola\Programování a vývoj aplikací\Projekty\Studentsky_Projekt\RegSim\RegSim\obj\Debug\RegSim.exe
 X:\Škola\Programování a vývoj aplikací\Projekty\Studentsky_Projekt\RegSim\RegSim\obj\Debug\RegSim.pdb
+Y:\Documents\registryTool\RegSim\RegSim\bin\Debug\RegSim.exe.config
+Y:\Documents\registryTool\RegSim\RegSim\obj\Debug\RegSim.exe
+Y:\Documents\registryTool\RegSim\RegSim\obj\Debug\RegSim.pdb
+Y:\Documents\registryTool\RegSim\RegSim\bin\Debug\RegSim.exe
+Y:\Documents\registryTool\RegSim\RegSim\bin\Debug\RegSim.pdb
+Y:\Documents\registryTool\RegSim\RegSim\bin\Debug\Common.dll
+Y:\Documents\registryTool\RegSim\RegSim\bin\Debug\KeyPaths.dll
+Y:\Documents\registryTool\RegSim\RegSim\bin\Debug\OnStart.dll
+Y:\Documents\registryTool\RegSim\RegSim\bin\Debug\HKEY_CURRENT_USER.dll
+Y:\Documents\registryTool\RegSim\RegSim\bin\Debug\HKEY_LOCAL_MACHINE.dll
+Y:\Documents\registryTool\RegSim\RegSim\bin\Debug\HKEY_CLASSES_ROOT.dll
+Y:\Documents\registryTool\RegSim\RegSim\bin\Debug\Common.pdb
+Y:\Documents\registryTool\RegSim\RegSim\bin\Debug\KeyPaths.pdb
+Y:\Documents\registryTool\RegSim\RegSim\bin\Debug\OnStart.pdb
+Y:\Documents\registryTool\RegSim\RegSim\bin\Debug\HKEY_CURRENT_USER.pdb
+Y:\Documents\registryTool\RegSim\RegSim\bin\Debug\HKEY_LOCAL_MACHINE.pdb
+Y:\Documents\registryTool\RegSim\RegSim\bin\Debug\HKEY_CLASSES_ROOT.pdb
+Y:\Documents\registryTool\RegSim\RegSim\obj\Debug\RegSim.csprojResolveAssemblyReference.cache
+Y:\Documents\registryTool\RegSim\RegSim\obj\Debug\RegSim.EditKey.resources
+Y:\Documents\registryTool\RegSim\RegSim\obj\Debug\RegSim.Help.resources
+Y:\Documents\registryTool\RegSim\RegSim\obj\Debug\RegSim.Keyboard.resources
+Y:\Documents\registryTool\RegSim\RegSim\obj\Debug\RegSim.MainForm.resources
+Y:\Documents\registryTool\RegSim\RegSim\obj\Debug\RegSim.Properties.Resources.resources
+Y:\Documents\registryTool\RegSim\RegSim\obj\Debug\RegSim.csproj.GenerateResource.Cache

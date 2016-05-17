@@ -24,3 +24,16 @@ X:\Studentsky_Projekt\RegSim\KeyPaths\bin\Debug\Common.pdb
 X:\Studentsky_Projekt\RegSim\KeyPaths\obj\Debug\KeyPaths.csprojResolveAssemblyReference.cache
 X:\Studentsky_Projekt\RegSim\KeyPaths\obj\Debug\KeyPaths.dll
 X:\Studentsky_Projekt\RegSim\KeyPaths\obj\Debug\KeyPaths.pdb
+Y:\Documents\registryTool\RegSim\KeyPaths\bin\Debug\KeyPaths.dll
+Y:\Documents\registryTool\RegSim\KeyPaths\bin\Debug\KeyPaths.pdb
+Y:\Documents\registryTool\RegSim\KeyPaths\bin\Debug\HKEY_CLASSES_ROOT.dll
+Y:\Documents\registryTool\RegSim\KeyPaths\bin\Debug\HKEY_CURRENT_USER.dll
+Y:\Documents\registryTool\RegSim\KeyPaths\bin\Debug\HKEY_LOCAL_MACHINE.dll
+Y:\Documents\registryTool\RegSim\KeyPaths\bin\Debug\Common.dll
+Y:\Documents\registryTool\RegSim\KeyPaths\bin\Debug\HKEY_CLASSES_ROOT.pdb
+Y:\Documents\registryTool\RegSim\KeyPaths\bin\Debug\HKEY_CURRENT_USER.pdb
+Y:\Documents\registryTool\RegSim\KeyPaths\bin\Debug\HKEY_LOCAL_MACHINE.pdb
+Y:\Documents\registryTool\RegSim\KeyPaths\bin\Debug\Common.pdb
+Y:\Documents\registryTool\RegSim\KeyPaths\obj\Debug\KeyPaths.csprojResolveAssemblyReference.cache
+Y:\Documents\registryTool\RegSim\KeyPaths\obj\Debug\KeyPaths.dll
+Y:\Documents\registryTool\RegSim\KeyPaths\obj\Debug\KeyPaths.pdb

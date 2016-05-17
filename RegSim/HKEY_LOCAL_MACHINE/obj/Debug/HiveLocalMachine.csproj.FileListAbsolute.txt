@@ -1,0 +1,7 @@
+Y:\Documents\registryTool\RegSim\HKEY_LOCAL_MACHINE\bin\Debug\HKEY_LOCAL_MACHINE.dll
+Y:\Documents\registryTool\RegSim\HKEY_LOCAL_MACHINE\bin\Debug\HKEY_LOCAL_MACHINE.pdb
+Y:\Documents\registryTool\RegSim\HKEY_LOCAL_MACHINE\bin\Debug\Common.dll
+Y:\Documents\registryTool\RegSim\HKEY_LOCAL_MACHINE\bin\Debug\Common.pdb
+Y:\Documents\registryTool\RegSim\HKEY_LOCAL_MACHINE\obj\Debug\HiveLocalMachine.csprojResolveAssemblyReference.cache
+Y:\Documents\registryTool\RegSim\HKEY_LOCAL_MACHINE\obj\Debug\HKEY_LOCAL_MACHINE.dll
+Y:\Documents\registryTool\RegSim\HKEY_LOCAL_MACHINE\obj\Debug\HKEY_LOCAL_MACHINE.pdb

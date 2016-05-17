@@ -1,0 +1,7 @@
+Y:\Documents\registryTool\RegSim\HKEY_CURRENT_USER\bin\Debug\HKEY_CURRENT_USER.dll
+Y:\Documents\registryTool\RegSim\HKEY_CURRENT_USER\bin\Debug\HKEY_CURRENT_USER.pdb
+Y:\Documents\registryTool\RegSim\HKEY_CURRENT_USER\bin\Debug\Common.dll
+Y:\Documents\registryTool\RegSim\HKEY_CURRENT_USER\bin\Debug\Common.pdb
+Y:\Documents\registryTool\RegSim\HKEY_CURRENT_USER\obj\Debug\HiveCurrentUser.csprojResolveAssemblyReference.cache
+Y:\Documents\registryTool\RegSim\HKEY_CURRENT_USER\obj\Debug\HKEY_CURRENT_USER.dll
+Y:\Documents\registryTool\RegSim\HKEY_CURRENT_USER\obj\Debug\HKEY_CURRENT_USER.pdb

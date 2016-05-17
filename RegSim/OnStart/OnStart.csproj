@@ -44,17 +44,17 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\HKEY_CLASSES_ROOT\HKEY_CLASSES_ROOT.csproj">
+    <ProjectReference Include="..\HKEY_CLASSES_ROOT\HiveClassesRoot.csproj">
       <Project>{0b56c4f9-7df6-4aa4-a413-25ceacd1b7d4}</Project>
-      <Name>HKEY_CLASSES_ROOT</Name>
+      <Name>HiveClassesRoot</Name>
     </ProjectReference>
-    <ProjectReference Include="..\HKEY_CURRENT_USER\HKEY_CURRENT_USER.csproj">
+    <ProjectReference Include="..\HKEY_CURRENT_USER\HiveCurrentUser.csproj">
       <Project>{17200355-f9ca-48a8-b5e0-9fdbb6c5435a}</Project>
-      <Name>HKEY_CURRENT_USER</Name>
+      <Name>HiveCurrentUser</Name>
     </ProjectReference>
-    <ProjectReference Include="..\HKEY_LOCAL_MACHINE\HKEY_LOCAL_MACHINE.csproj">
+    <ProjectReference Include="..\HKEY_LOCAL_MACHINE\HiveLocalMachine.csproj">
       <Project>{0cc47577-b096-4163-a010-3c8fb6bf5d2b}</Project>
-      <Name>HKEY_LOCAL_MACHINE</Name>
+      <Name>HiveLocalMachine</Name>
     </ProjectReference>
     <ProjectReference Include="..\KeyPaths\KeyPaths.csproj">
       <Project>{f63c092c-fbee-4181-806c-9d94874bdb4a}</Project>
